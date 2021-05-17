@@ -169,7 +169,7 @@
   transition: 0.3s;
   margin: 3px;
   padding: 0px 30px;
-  color: #395177;
+  color: #4a73b5;
   font-size: 30px;
   width: 20%;
   background: rgb(18, 21, 26);
@@ -193,7 +193,6 @@
 .developer-icon:hover {
   transition: all 1s;
   transform: scale(1.4);
-  color: #dcebe9;
 }
 
 .card-header {

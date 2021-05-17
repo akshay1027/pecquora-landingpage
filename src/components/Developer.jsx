@@ -10,7 +10,7 @@ const Developer = () => {
         <div id="developer">
         <Grid className="row" item xs={12} sm={12} md={12} lg={12}>
         <Typography
-            style={{ fontSize: '43px', color: "#395177", textAlign: 'center', marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600 }}
+            style={{ fontSize: '43px', color: "#4a73b5", textAlign: 'center', marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600 }}
             >
             DEVELOPER
             </Typography>

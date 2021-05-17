@@ -15,7 +15,7 @@ const App = () =>  {
   
   return (
     <Router className="App">
-      <Suspense fallback={<div style={{ display: 'flex', justifyContent: 'center'}}>Loading...</div>}>
+      <Suspense fallback={<div style={{ display: 'flex', justifyContent: 'center', marginTop:'50px'}}>Loading...</div>}>
       <LazyNavBar /> {/* header will be present in all pages */}
          <Switch>
 

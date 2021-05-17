@@ -11,7 +11,7 @@ const Features = () => {
         <div id="feature"> 
         <Grid class="row">
         <Typography
-            style={{ fontSize: '43px', color: "#395177", marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600, display: 'flex', justifyContent: 'center' }}
+            style={{ fontSize: '43px', color: "#4a73b5", marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600, display: 'flex', justifyContent: 'center' }}
             >
             FEATURES
             </Typography>

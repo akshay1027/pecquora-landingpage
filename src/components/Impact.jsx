@@ -9,7 +9,7 @@ const Impact = () => {
         <div id="impact">
         <Grid container className="main" id="about" style={{justifyContent: 'center', paddingTop: '50px'}}>
         <Typography
-            style={{ fontSize: '43px', color: "#395177", marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600, display: 'flex', justifyContent: 'center' }}
+            style={{ fontSize: '43px', color: "#4a73b5", marginBottom: '35px', borderBottom: '3px solid #10dac1', fontWeight: 600, display: 'flex', justifyContent: 'center' }}
             >
             OUR IMPACT
             </Typography>
@@ -27,7 +27,7 @@ const Impact = () => {
                     <br />
                     <a
               style={{ textDecoration: "none", color: "black", display: "flex", justifyContent: 'space-around' }}
-              href="https://github.com/akshay1027/pecquora"
+              href="https://pec-forum.herokuapp.com/"
               rel="noreferrer"
               target="_blank"
             >
@@ -50,7 +50,7 @@ const Impact = () => {
                     <br />
                     <a
               style={{ textDecoration: "none", color: "black", display: "flex", justifyContent: 'space-around' }}
-              href="https://github.com/akshay1027/pecquora"
+              href="https://pec-forum.herokuapp.com/"
               rel="noreferrer"
               target="_blank"
             >
@@ -64,7 +64,7 @@ const Impact = () => {
             <h2 style={{ textAlign: 'center', marginTop: '-20px'}}>
                This project is made with MERN stack and is Open sourced.
               <br />
-              Here is the code, star the repo ♥ :
+              Here is the code, star the repo ♥ 
             </h2>
             <br />
             <a

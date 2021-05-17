@@ -16,6 +16,16 @@ function NavBar() {
           </Link>
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
+          <li className="nav-item">
+              <a
+                href="https://pec-forum.herokuapp.com/"
+                activeClassName="active"
+                className="nav-links"
+                onClick={handleClick}
+              >
+                PEC Forum 
+              </a>
+            </li>
             <li className="nav-item">
               <Link
                 to="home"

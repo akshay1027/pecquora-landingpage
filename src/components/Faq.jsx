@@ -28,7 +28,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
     return (
         <div id='faq'>
-        <Box style={{ paddingBottom: "50px", background: 'rgb(12, 17, 24)' }}>
+        <Box style={{ paddingBottom: "100px", background: 'rgb(12, 17, 24)' }}>
         <Box
             style={{
             display: "flex",
@@ -38,7 +38,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
             }}
         >
             <Typography
-            style={{ fontSize: '43px', borderBottom: '3px solid #10dac1', color: "#395177", fontWeight: 600, }}
+            style={{ fontSize: '43px', borderBottom: '3px solid #10dac1', color: "#4a73b5", fontWeight: 600, }}
             >
             FAQs
             </Typography>
@@ -58,7 +58,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
                 expanded={expanded === id}
                 key={id}
                 onChange={handleChange(id)}
-                style={{ color: '#395177', width: '85%', padding: '5px', backgroundColor: "rgb(18, 21, 26)" }}
+                style={{ color: '#4a73b5', width: '85%', padding: '5px', backgroundColor: "rgb(18, 21, 26)" }}
                 >
                 <AccordionSummary
                     expandIcon={<ExpandMoreIcon style={{ color: "#17b078" }} />}
