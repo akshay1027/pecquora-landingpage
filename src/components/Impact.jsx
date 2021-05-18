@@ -13,6 +13,12 @@ const Impact = () => {
             >
             OUR IMPACT
             </Typography>
+            <div className="main__content">
+            <h2 style={{ textAlign: 'center', marginTop: '-20px'}}>
+            <br />
+            The objective is to improve awareness of our students about the Industry, give career guidance, connect with Industry experts who are alumni of our institute. 
+            </h2>
+            </div>
         <Grid item xs={12} sm={12} md={12} lg={12}>
           <Grid class="row">
           <div class="card2" style={{ marginTop: '50px'}}>
